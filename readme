@@ -1,5 +1,8 @@
+Criar programa em JAVA;
 
-•	Ler arquivo CSV de um path informado via linha de comando;
+Ele deve ser capaz:
+
+•	Ler arquivo CSV de um path informado via linha de comando (ex: java -jar programa.jar "C:\temp\teste.csv");
 •	Converter p/JSON, escrever um arquivo.
 
 o	Avaliar uso das estruturas de repetição;
