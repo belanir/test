@@ -1,0 +1,29 @@
+
+•	Ler arquivo CSV de um path informado via linha de comando;
+•	Converter p/JSON, escrever um arquivo.
+
+o	Avaliar uso das estruturas de repetição;
+o	Try/catch;
+o	Uso de bibliotecas externas;
+
+Exemplo:
+
+CSV: cars.csv
+
+marca, modelo, cor, ano, quantidade
+volkswagen, polo, preto, 2020, 10
+chevrolet, cruze, branco,2019, 5
+ford, ka, prata, 2020, 8
+
+
+JSON:
+
+{
+"cars": [
+{"marca" : "volkswagen","modelo" : "polo","cor" : "preto","ano" : "2020","quantidade" : "10"},
+{"marca" : "chevrolet","modelo" : "cruze","cor" : "branco","ano" : "2019","quantidade" : "5"},
+{"marca" : "ford","modelo" : "ka","cor" : "prata","ano" : "2020","quantidade" : "8"}
+]}
+
+
+
